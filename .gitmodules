@@ -1,0 +1,3 @@
+[submodule "awstraining"]
+	path = awstraining
+	url = https://github.com/anmutetech/awstraining.git
